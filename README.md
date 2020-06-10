@@ -1,8 +1,11 @@
-# RecipeNow
+# RecipeNow  [![Netlify Status](https://api.netlify.com/api/v1/badges/8cc7f869-cf02-497e-9f04-b76db7f3de8b/deploy-status)](https://app.netlify.com/sites/recipenow/deploys)
 
 An application I made with the help of some lectures from uDemy by using MVC architecture.
 I've made many changes to the UI and added some elements in the application, also I will update some algorithms running in the backend soon.
 
+Check the website from **[here](https://recipenow.netlify.app/)**
+
+--- 
 
 **However there are some issues about the current API, since it's not so extensive**
 
