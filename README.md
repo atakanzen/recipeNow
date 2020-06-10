@@ -3,7 +3,7 @@
 An application I made with the help of some lectures from uDemy by using MVC architecture.
 I've made many changes to the UI and added some elements in the application, also I will update some algorithms running in the backend soon.
 
-Check the website from **[here](https://recipenow.netlify.app/)**
+Check the website from **[here](https://recipenow.netlify.app/)** (It's not stable on mobile devices)
 
 --- 
 
