@@ -9,7 +9,7 @@ Check the website from **[here](https://recipenow.netlify.app/)**
 
 **However there are some issues about the current API, since it's not so extensive**
 
-**[Here](https://forkify-api.herokuapp.com/phrases.html)** you can find a list of keywords that you can get data from the API
+**[Here](https://forkify-api.herokuapp.com/phrases.html) you can find a list of keywords that you can get data from the API**
 
 
 ---
